@@ -52,7 +52,7 @@ Library: D:\Unity Projects\SkyRunner\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --linker-options=PdbAltPath="SkyRunner_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\SkyRunner\Temp\Burst
---key-folder=D:/Unity/2022.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=E:/Unity/2022.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\SkyRunner\Library\Burst
 --output=D:\Unity Projects\SkyRunner\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -141,7 +141,7 @@ Library: D:\Unity Projects\SkyRunner\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --linker-options=PdbAltPath="SkyRunner_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity Projects\SkyRunner\Temp\Burst
---key-folder=D:/Unity/2022.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=E:/Unity/2022.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Unity Projects\SkyRunner\Library\Burst
 --output=D:\Unity Projects\SkyRunner\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
